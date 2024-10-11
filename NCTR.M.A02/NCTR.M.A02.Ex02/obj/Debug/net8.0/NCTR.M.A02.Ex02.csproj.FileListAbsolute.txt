@@ -1,0 +1,15 @@
+C:\Users\ngodo\Desktop\C#\cplnet06\NCTR.M.A02\NCTR.M.A02.Ex02\bin\Debug\net8.0\NCTR.M.A02.Ex02.exe
+C:\Users\ngodo\Desktop\C#\cplnet06\NCTR.M.A02\NCTR.M.A02.Ex02\bin\Debug\net8.0\NCTR.M.A02.Ex02.deps.json
+C:\Users\ngodo\Desktop\C#\cplnet06\NCTR.M.A02\NCTR.M.A02.Ex02\bin\Debug\net8.0\NCTR.M.A02.Ex02.runtimeconfig.json
+C:\Users\ngodo\Desktop\C#\cplnet06\NCTR.M.A02\NCTR.M.A02.Ex02\bin\Debug\net8.0\NCTR.M.A02.Ex02.dll
+C:\Users\ngodo\Desktop\C#\cplnet06\NCTR.M.A02\NCTR.M.A02.Ex02\bin\Debug\net8.0\NCTR.M.A02.Ex02.pdb
+C:\Users\ngodo\Desktop\C#\cplnet06\NCTR.M.A02\NCTR.M.A02.Ex02\obj\Debug\net8.0\NCTR.M.A02.Ex02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngodo\Desktop\C#\cplnet06\NCTR.M.A02\NCTR.M.A02.Ex02\obj\Debug\net8.0\NCTR.M.A02.Ex02.AssemblyInfoInputs.cache
+C:\Users\ngodo\Desktop\C#\cplnet06\NCTR.M.A02\NCTR.M.A02.Ex02\obj\Debug\net8.0\NCTR.M.A02.Ex02.AssemblyInfo.cs
+C:\Users\ngodo\Desktop\C#\cplnet06\NCTR.M.A02\NCTR.M.A02.Ex02\obj\Debug\net8.0\NCTR.M.A02.Ex02.csproj.CoreCompileInputs.cache
+C:\Users\ngodo\Desktop\C#\cplnet06\NCTR.M.A02\NCTR.M.A02.Ex02\obj\Debug\net8.0\NCTR.M.A02.Ex02.sourcelink.json
+C:\Users\ngodo\Desktop\C#\cplnet06\NCTR.M.A02\NCTR.M.A02.Ex02\obj\Debug\net8.0\NCTR.M.A02.Ex02.dll
+C:\Users\ngodo\Desktop\C#\cplnet06\NCTR.M.A02\NCTR.M.A02.Ex02\obj\Debug\net8.0\refint\NCTR.M.A02.Ex02.dll
+C:\Users\ngodo\Desktop\C#\cplnet06\NCTR.M.A02\NCTR.M.A02.Ex02\obj\Debug\net8.0\NCTR.M.A02.Ex02.pdb
+C:\Users\ngodo\Desktop\C#\cplnet06\NCTR.M.A02\NCTR.M.A02.Ex02\obj\Debug\net8.0\NCTR.M.A02.Ex02.genruntimeconfig.cache
+C:\Users\ngodo\Desktop\C#\cplnet06\NCTR.M.A02\NCTR.M.A02.Ex02\obj\Debug\net8.0\ref\NCTR.M.A02.Ex02.dll

@@ -1,0 +1,15 @@
+/Users/thuynguyen/Documents/HieuHT24/Class/2024/HN24_CPL.V_NET_06/cplnet06/cplnet06/NET06/NET06.DemoBasic/bin/Debug/net8.0/NET06.DemoBasic
+/Users/thuynguyen/Documents/HieuHT24/Class/2024/HN24_CPL.V_NET_06/cplnet06/cplnet06/NET06/NET06.DemoBasic/bin/Debug/net8.0/NET06.DemoBasic.deps.json
+/Users/thuynguyen/Documents/HieuHT24/Class/2024/HN24_CPL.V_NET_06/cplnet06/cplnet06/NET06/NET06.DemoBasic/bin/Debug/net8.0/NET06.DemoBasic.runtimeconfig.json
+/Users/thuynguyen/Documents/HieuHT24/Class/2024/HN24_CPL.V_NET_06/cplnet06/cplnet06/NET06/NET06.DemoBasic/bin/Debug/net8.0/NET06.DemoBasic.dll
+/Users/thuynguyen/Documents/HieuHT24/Class/2024/HN24_CPL.V_NET_06/cplnet06/cplnet06/NET06/NET06.DemoBasic/bin/Debug/net8.0/NET06.DemoBasic.pdb
+/Users/thuynguyen/Documents/HieuHT24/Class/2024/HN24_CPL.V_NET_06/cplnet06/cplnet06/NET06/NET06.DemoBasic/obj/Debug/net8.0/NET06.DemoBasic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thuynguyen/Documents/HieuHT24/Class/2024/HN24_CPL.V_NET_06/cplnet06/cplnet06/NET06/NET06.DemoBasic/obj/Debug/net8.0/NET06.DemoBasic.AssemblyInfoInputs.cache
+/Users/thuynguyen/Documents/HieuHT24/Class/2024/HN24_CPL.V_NET_06/cplnet06/cplnet06/NET06/NET06.DemoBasic/obj/Debug/net8.0/NET06.DemoBasic.AssemblyInfo.cs
+/Users/thuynguyen/Documents/HieuHT24/Class/2024/HN24_CPL.V_NET_06/cplnet06/cplnet06/NET06/NET06.DemoBasic/obj/Debug/net8.0/NET06.DemoBasic.csproj.CoreCompileInputs.cache
+/Users/thuynguyen/Documents/HieuHT24/Class/2024/HN24_CPL.V_NET_06/cplnet06/cplnet06/NET06/NET06.DemoBasic/obj/Debug/net8.0/NET06.DemoBasic.sourcelink.json
+/Users/thuynguyen/Documents/HieuHT24/Class/2024/HN24_CPL.V_NET_06/cplnet06/cplnet06/NET06/NET06.DemoBasic/obj/Debug/net8.0/NET06.DemoBasic.dll
+/Users/thuynguyen/Documents/HieuHT24/Class/2024/HN24_CPL.V_NET_06/cplnet06/cplnet06/NET06/NET06.DemoBasic/obj/Debug/net8.0/refint/NET06.DemoBasic.dll
+/Users/thuynguyen/Documents/HieuHT24/Class/2024/HN24_CPL.V_NET_06/cplnet06/cplnet06/NET06/NET06.DemoBasic/obj/Debug/net8.0/NET06.DemoBasic.pdb
+/Users/thuynguyen/Documents/HieuHT24/Class/2024/HN24_CPL.V_NET_06/cplnet06/cplnet06/NET06/NET06.DemoBasic/obj/Debug/net8.0/NET06.DemoBasic.genruntimeconfig.cache
+/Users/thuynguyen/Documents/HieuHT24/Class/2024/HN24_CPL.V_NET_06/cplnet06/cplnet06/NET06/NET06.DemoBasic/obj/Debug/net8.0/ref/NET06.DemoBasic.dll

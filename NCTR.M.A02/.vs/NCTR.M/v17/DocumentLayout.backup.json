@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ngodo\\Desktop\\C#\\cplnet06\\NCTR.M.A02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD41A4F-FA6F-47BD-AF9E-77D73552341C}|NCTR.M.A02.Ex02\\NCTR.M.A02.Ex02.csproj|c:\\users\\ngodo\\desktop\\c#\\cplnet06\\nctr.m.a02\\nctr.m.a02.ex02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD41A4F-FA6F-47BD-AF9E-77D73552341C}|NCTR.M.A02.Ex02\\NCTR.M.A02.Ex02.csproj|solutionrelative:nctr.m.a02.ex02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5546F469-DDB8-4A0B-A8EF-F5DE80EE00FA}|NCTR.M.A02.Ex01\\NCTR.M.A02.Ex01.csproj|c:\\users\\ngodo\\desktop\\c#\\cplnet06\\nctr.m.a02\\nctr.m.a02.ex01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5546F469-DDB8-4A0B-A8EF-F5DE80EE00FA}|NCTR.M.A02.Ex01\\NCTR.M.A02.Ex01.csproj|solutionrelative:nctr.m.a02.ex01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5546F469-DDB8-4A0B-A8EF-F5DE80EE00FA}|NCTR.M.A02.Ex01\\NCTR.M.A02.Ex01.csproj|c:\\users\\ngodo\\desktop\\c#\\cplnet06\\nctr.m.a02\\nctr.m.a02.ex01\\service\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5546F469-DDB8-4A0B-A8EF-F5DE80EE00FA}|NCTR.M.A02.Ex01\\NCTR.M.A02.Ex01.csproj|solutionrelative:nctr.m.a02.ex01\\service\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5546F469-DDB8-4A0B-A8EF-F5DE80EE00FA}|NCTR.M.A02.Ex01\\NCTR.M.A02.Ex01.csproj|c:\\users\\ngodo\\desktop\\c#\\cplnet06\\nctr.m.a02\\nctr.m.a02.ex01\\entity\\taskreminder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5546F469-DDB8-4A0B-A8EF-F5DE80EE00FA}|NCTR.M.A02.Ex01\\NCTR.M.A02.Ex01.csproj|solutionrelative:nctr.m.a02.ex01\\entity\\taskreminder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskReminder.cs",
+              "DocumentMoniker": "C:\\Users\\ngodo\\Desktop\\C#\\cplnet06\\NCTR.M.A02\\NCTR.M.A02.Ex01\\Entity\\TaskReminder.cs",
+              "RelativeDocumentMoniker": "NCTR.M.A02.Ex01\\Entity\\TaskReminder.cs",
+              "ToolTip": "C:\\Users\\ngodo\\Desktop\\C#\\cplnet06\\NCTR.M.A02\\NCTR.M.A02.Ex01\\Entity\\TaskReminder.cs",
+              "RelativeToolTip": "NCTR.M.A02.Ex01\\Entity\\TaskReminder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T13:41:56.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "C:\\Users\\ngodo\\Desktop\\C#\\cplnet06\\NCTR.M.A02\\NCTR.M.A02.Ex01\\Service\\TaskService.cs",
+              "RelativeDocumentMoniker": "NCTR.M.A02.Ex01\\Service\\TaskService.cs",
+              "ToolTip": "C:\\Users\\ngodo\\Desktop\\C#\\cplnet06\\NCTR.M.A02\\NCTR.M.A02.Ex01\\Service\\TaskService.cs",
+              "RelativeToolTip": "NCTR.M.A02.Ex01\\Service\\TaskService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T13:41:51.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ngodo\\Desktop\\C#\\cplnet06\\NCTR.M.A02\\NCTR.M.A02.Ex01\\Program.cs",
+              "RelativeDocumentMoniker": "NCTR.M.A02.Ex01\\Program.cs",
+              "ToolTip": "C:\\Users\\ngodo\\Desktop\\C#\\cplnet06\\NCTR.M.A02\\NCTR.M.A02.Ex01\\Program.cs",
+              "RelativeToolTip": "NCTR.M.A02.Ex01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T13:41:44.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ngodo\\Desktop\\C#\\cplnet06\\NCTR.M.A02\\NCTR.M.A02.Ex02\\Program.cs",
+              "RelativeDocumentMoniker": "NCTR.M.A02.Ex02\\Program.cs",
+              "ToolTip": "C:\\Users\\ngodo\\Desktop\\C#\\cplnet06\\NCTR.M.A02\\NCTR.M.A02.Ex02\\Program.cs*",
+              "RelativeToolTip": "NCTR.M.A02.Ex02\\Program.cs*",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAgwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T13:41:42.626Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
